@@ -1,0 +1,73 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.main{
+    margin: 10%;
+}
+.facebook{
+    width: 100%;
+    background-color: rgb(246, 249, 249);
+    text-align: center;
+}
+.head{
+    color: rgb(8, 96, 237);
+}
+.p-1{
+    margin-top:12px;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.form{
+    background-color: rgb(208, 214, 199);
+    width: 25%;
+    margin-left: 37%;
+    border-radius:10px;
+    padding: 10px;
+    margin-top: 25px; 
+}
+.inputs{
+    width: 100%;
+    border-radius: 5px;
+    margin-top: 15px;
+    height: 40px;
+    border: none;
+    
+}
+.btn-1{
+    width: 100%;
+    margin-top: 15px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: rgb(47, 121, 240);
+    color: white;
+    font-size: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: transparent;
+}
+.p-2{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    color: rgb(14, 97, 231);
+}
+.btn-2{
+    padding: 9px;
+    margin-top: 15px;
+    background-color: rgba(11, 169, 13, 0.904);
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    border: transparent;
+    margin-bottom: 12px;
+}
+.p-3{
+    margin-top: 15px;
+    font-size: small;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 15px;
+}
+span{
+    color: black;
+    font-weight: 900;
+    margin-bottom: 15px;
+}
